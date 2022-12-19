@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <p align="center">
-<a href="https://kevinafsar.github.io/kevinbucinx/"><img title="Pencet-Dong" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://kevinafsar.github.io/kevinbucinx/"><img title="Pencet-Dong" src="https://img.shields.io/badge/-PENCET--DONG-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://instagram.com/kevinafsar_"><img title="Autor" src="https://img.shields.io/badge/Autor-Kevinafsar-orange?style=for-the-badge&logo=github"></a>
