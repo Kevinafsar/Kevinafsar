@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevinafsar
-- 👀 I’m interested in world of music
+- 👀 I’m interested in music
 - 🌱 I’m currently learning mix song
 - 💞️ I’m looking to collaborate in my YouTube 
 - 📫 How to reach me = in Instagram @kevinafsar_
