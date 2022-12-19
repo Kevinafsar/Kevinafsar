@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+my+king+%3A3;%5B+How+sexy+are+you+7w7r+%5D_)](https://git.io/typing-svg)
+
 <img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
 </div>
 <br>
