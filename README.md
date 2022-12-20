@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevinafsar
 - 👀 I’m interested in music
-- 🌱 I’m currently learning mix song
+- 🌱 I’m currently mix song
 - 💞️ My Girlfriend AULIA
 - 📫 My Instagram @kevinafsar_
 
