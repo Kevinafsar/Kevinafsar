@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kevinafsar
 - 👀 I’m interested in music
 - 🌱 I’m currently learning mix song
-- 💞️ I’m looking to collaborate in YouTube 
-- 📫 How to reach me = in Instagram @kevinafsar_
+- 💞️ My Girlfriend AULIA
+- 📫 My Instagram @kevinafsar_
 
 <!---
 Kevinafsar/Kevinafsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
